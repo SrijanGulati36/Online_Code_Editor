@@ -4,7 +4,7 @@
 
 `Working demo` : https://online-code-editor-three.vercel.app/
 
-<img src="#" />
+<img src="https://github.com/SrijanGulati36/Online_Code_Editor/blob/main/src/image/demo1.png" />
 
 ## Features:
 
