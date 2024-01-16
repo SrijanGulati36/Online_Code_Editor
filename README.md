@@ -1,6 +1,5 @@
-# CodeRush - Compile and Execute code in 40+ languages
-
-⚡️ A code editor that compiles and runs your code on the web.
+# Online_Code_Editor
+A code editor that compiles and runs your code on the web.
 
 `Working demo` : https://online-code-editor-three.vercel.app/
 
