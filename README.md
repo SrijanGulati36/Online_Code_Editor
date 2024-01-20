@@ -6,8 +6,9 @@ A code editor that compiles and runs your code on the web.
 - Switch themes from a list of available themes.
 
 <div align="center">
-  <a href="https://responsive-portfolio-website-eta.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://online-code-editor-srijan-gulatis-projects.vercel.app/"><strong>➥ Live Demo</strong></a>
 </div>
+
 
 <img src="https://github.com/SrijanGulati36/Online_Code_Editor/blob/main/src/image/demo1.png" />
 <img src="https://github.com/SrijanGulati36/Online_Code_Editor/blob/main/src/image/demo2.png" />
