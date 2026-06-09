@@ -3,11 +3,12 @@
 A web-based code editor supporting real-time execution in 40+ programming 
 languages with sub-second output rendering.
 
-## 🚀 Key Highlights
+## ✨ Features & Highlights
 - Real-time code execution in **40+ programming languages**
 - **Sub-second output rendering** for instant feedback
-- **Web Workers** for asynchronous execution — 30% faster UI responsiveness
-- Theme switching across multiple editor themes
+- **Web Workers** for asynchronous execution — **30% faster UI responsiveness**
+- Write, compile, and run code directly in the browser — no setup needed
+- Switch themes across multiple editor themes
 - Seamless cross-browser compatibility
 
 ## 🛠️ Tech Stack
